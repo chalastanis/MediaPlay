@@ -1,0 +1,5 @@
+com/example/mediaplay/BuildConfig.java
+ com.example.mediaplay.BuildConfig
+com/example/mediaplay/MainActivity.java
+ com.example.mediaplay.MainActivity
+ com.example.mediaplay.MainActivity$1
